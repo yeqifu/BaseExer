@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7fa4fca-0641-42a0-9dc1-f7bbc153dc56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer01/StringTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer01/StringTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer02/DateTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/CountNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonAPI/CommonAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CommonAPI/CommonAPI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CommonAPI/com/yeqifu/exer01/StringTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CommonAPI/com/yeqifu/exer01/StringTest01.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,24 +19,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="510">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer01/StringTest03.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/CountNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="340">
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/devTools/Java/jdk1.8.0_91/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -59,6 +63,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>((Programmer) e)</find>
+      <find>wait</find>
     </findStrings>
     <replaceStrings>
       <replace>p</replace>
@@ -70,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Class/src/com/yeqifu/object/exer02/MyDate.java" />
         <option value="$PROJECT_DIR$/Class/src/com/yeqifu/abstractexer/exer02/Employee.java" />
         <option value="$PROJECT_DIR$/Class/src/com/yeqifu/abstractexer/exer02/HourlyEmployee.java" />
         <option value="$PROJECT_DIR$/Class/src/com/yeqifu/abstractexer/exer02/SalariedEmployee.java" />
@@ -121,6 +125,7 @@
         <option value="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer01/StringTest03.java" />
         <option value="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer02/DateTest01.java" />
         <option value="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/Reverse.java" />
+        <option value="$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/CountNum.java" />
       </list>
     </option>
   </component>
@@ -134,10 +139,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="990" />
-    <option name="y" value="5" />
-    <option name="width" value="942" />
-    <option name="height" value="1045" />
+    <option name="x" value="916" />
+    <option name="y" value="6" />
+    <option name="width" value="1014" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,7 +214,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582207646242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582379661686" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructureExercise" />
     <property name="project.structure.last.edited" value="Project" />
@@ -237,7 +242,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reverse">
+  <component name="RunManager" selected="Application.CountNum">
+    <configuration name="CountNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yeqifu.exer03.CountNum" />
+      <module name="CommonAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yeqifu.exer03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yeqifu.exer03.Reverse" />
       <module name="CommonAPI" />
@@ -283,22 +301,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CommonAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yeqifu.exer01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yeqifu.exer01" />
-      <option name="MAIN_CLASS_NAME" value="com.yeqifu.exer01.StringTest02" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringTest03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CommonAPI" />
       <extension name="coverage">
@@ -317,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountNum" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="JUnit.Reverse.reverseTest" />
         <item itemvalue="JUnit.DateTest01.test" />
         <item itemvalue="JUnit.StringTest03.test01" />
-        <item itemvalue="JUnit.StringTest02.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +351,9 @@
       <workItem from="1581900863270" duration="14402000" />
       <workItem from="1581991050824" duration="11663000" />
       <workItem from="1582075003571" duration="4741000" />
-      <workItem from="1582160945164" duration="7772000" />
+      <workItem from="1582160945164" duration="7905000" />
+      <workItem from="1582248320291" duration="2685000" />
+      <workItem from="1582340522721" duration="4393000" />
     </task>
     <task id="LOCAL-00001" summary="多线程的练习">
       <created>1581946302980</created>
@@ -365,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582033272114</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="String常用方法练习">
+      <created>1582207681653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582207681653</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -401,7 +412,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90487000" />
+    <option name="totallyTimeSpent" value="97698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,10 +424,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="792" y="4" width="753" height="836" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48057553" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18096514" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -425,7 +436,7 @@
       <window_info id="Structure" order="6" weight="0.30012006" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20170455" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19832402" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,7 +449,7 @@
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3226257" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49820143" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24965894" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24932976" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -489,70 +500,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="多线程的练习" />
     <MESSAGE value="生产者、消费者问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="生产者、消费者问题" />
+    <MESSAGE value="String常用方法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="String常用方法练习" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class/src/com/yeqifu/abstractexer/exer02/HourlyEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class/src/com/yeqifu/abstractexer/exer02/SalariedEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class/src/com/yeqifu/abstractexer/exer02/MyDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class/src/com/yeqifu/abstractexer/exer02/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -893,17 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/devTools/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
-          <folding>
-            <element signature="e#43646#43647#0" expanded="true" />
-            <element signature="e#43691#43692#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Thread/src/com/yeqifu/exer02/CommunicationTest02.java" />
     <entry file="file://$PROJECT_DIR$/Thread/src/com/yeqifu/exer02/LockTest01.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -964,13 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/devTools/Java/jdk1.8.0_91/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer02/DateTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -981,21 +918,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer01/StringTest03.java">
+    <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="510">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer01/StringTest03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/devTools/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
           <folding>
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#43646#43647#0" expanded="true" />
+            <element signature="e#43691#43692#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/devTools/Java/jdk1.8.0_91/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="500" column="22" selection-start-line="500" selection-start-column="22" selection-end-line="500" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/devTools/Java/jdk1.8.0_91/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/devTools/Java/jdk1.8.0_91/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonAPI/src/com/yeqifu/exer03/CountNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
         </state>
       </provider>
     </entry>

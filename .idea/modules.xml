@@ -6,8 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonAPI/CommonAPI.iml" filepath="$PROJECT_DIR$/CommonAPI/CommonAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyProject/MyProject.iml" filepath="$PROJECT_DIR$/MyProject/MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyProject03/MyProject03.iml" filepath="$PROJECT_DIR$/MyProject03/MyProject03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewFeatures/NewFeatures.iml" filepath="$PROJECT_DIR$/NewFeatures/NewFeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflect/Reflect.iml" filepath="$PROJECT_DIR$/Reflect/Reflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
     </modules>

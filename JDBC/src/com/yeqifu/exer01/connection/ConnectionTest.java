@@ -11,6 +11,7 @@ import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
+import java.util.Scanner;
 
 /**
  * @Author: 落亦-
@@ -111,17 +112,18 @@ public class ConnectionTest {
         Properties properties = new Properties();
         properties.load(inputStream);
 
-        String driver = (String) properties.get("driver");
+        String driverClass = (String) properties.get("driverClass");
         String url = (String) properties.get("url");
         String user = (String) properties.get("user");
         String password = (String) properties.get("password");
 
         //2.加载驱动
-        Class.forName(driver);
+        Class.forName(driverClass);
         //3.获取连接
         Connection connection = DriverManager.getConnection(url, user, password);
         System.out.println(connection);
     }
+
 
 
 }

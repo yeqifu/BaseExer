@@ -57,4 +57,33 @@ public class JDBCUtils {
         }
     }
 
+    /**
+     * 关闭资源
+     * @param connection
+     * @param ps
+     */
+    public static void closeResource(Connection connection, Statement ps,ResultSet set){
+        try {
+            if (ps!=null){
+                ps.close();
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        try {
+            if (connection!=null){
+                connection.close();
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        try {
+            if (set!=null){
+                set.close();
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
 }

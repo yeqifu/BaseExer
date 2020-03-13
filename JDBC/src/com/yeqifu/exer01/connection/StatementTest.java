@@ -14,7 +14,10 @@ import java.util.Scanner;
  */
 public class StatementTest {
 
-    //使用Statement的弊端：需要拼写sql语句，并且存在SQL注入的问题
+    /**
+     * 使用Statement的弊端：需要拼写sql语句，并且存在SQL注入的问题
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("用户名：");
@@ -33,9 +36,6 @@ public class StatementTest {
             System.out.println("用户名或密码错误！");
         }
     }
-
-
-
 
 
     /**

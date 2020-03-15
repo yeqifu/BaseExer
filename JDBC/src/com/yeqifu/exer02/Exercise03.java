@@ -2,7 +2,6 @@ package com.yeqifu.exer02;
 
 import com.yeqifu.exer01.utils.JDBCUtils;
 
-import java.lang.reflect.Field;
 import java.sql.*;
 import java.util.Scanner;
 
